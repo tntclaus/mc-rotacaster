@@ -1,0 +1,8 @@
+= MC Rotacaster
+
+Makers' Comrade Rotacaster
+
+Uses 1 NEMA 17 motor and metallic bead chain.
+
+
+image::docs/photo.jpeg[width=300]
