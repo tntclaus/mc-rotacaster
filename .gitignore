@@ -1,0 +1,19 @@
+openscad.echo
+openscad.log
+dxfs/
+stls/
+bom/
+deps/
+svgs/
+.DS_Store
+*.iml
+
+## kicad ignore
+build
+python
+.idea
+*-backups
+fp-info-cache
+_autosave*.kicad_sch
+\#auto_saved_files\#
+plot
